@@ -1,2 +1,1 @@
-# basic-redux-toolkit
-basic training for Redux toolkit in React
+#Basic react project, for the practice of redux toolkit 
